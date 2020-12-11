@@ -15,3 +15,4 @@
 -  git branch (列出所有  branch)
 -  git checkout canvas (checkout 切換 編輯分支)
 -  git merge canvas  (merge  合併  canvas 至 master)
+-  git clone URL
